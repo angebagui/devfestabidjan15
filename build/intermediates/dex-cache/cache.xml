@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.5/686c608d1805b6d4d425ec4459e88164ffc85870/gson-2.5.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/gson-2.5_df620d5d0045e6c4d27c18cabfda0c2d225df960.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/com.android.support-design-23.1.1_bda2c4fe02209dc14adfea5675bd69e209dc9a98.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.0-beta-3595/fa058466a7ed0b393db7868986b603706968ee2b/kotlin-stdlib-1.0.0-beta-3595.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa058466a7ed0b393db7868986b603706968ee2b">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/kotlin-stdlib-1.0.0-beta-3595_f3f91e49ee15c459dc32bb49478b4e0a52e6d7a2.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-common/0.8/ecefaa8d26d522a351f42394a669c0a5f159f9dc/anko-common-0.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecefaa8d26d522a351f42394a669c0a5f159f9dc">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/anko-common-0.8_3693bb513a72c9b047d856a98b76dc47dea91275.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/converter-gson/2.0.0-beta2/392c3d09e0f5e7087544093cc0cb23bb9c7af5fa/converter-gson-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="392c3d09e0f5e7087544093cc0cb23bb9c7af5fa">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/converter-gson-2.0.0-beta2_86685c5b7b30ef18e87d12299d0a4a8672e1598d.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-sdk15/0.8/524eb31bef2d394b74fea857745b2188fdf556ef/anko-sdk15-0.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="524eb31bef2d394b74fea857745b2188fdf556ef">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/anko-sdk15-0.8_3a86e38a11d5f6c0629540fdf64686b5f3a256df.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/org.jetbrains.anko/anko-support-v4/0.8/d12c5906bdf5456c9f1641452de3d5a08afa73a9/anko-support-v4-0.8.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d12c5906bdf5456c9f1641452de3d5a08afa73a9">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/anko-support-v4-0.8_a5f492758a7c9d35d1779fe248b235c72e6daffb.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/rxjava-1.0.14_89d8b516bb77fca1574396040f2d549476c63238.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/adapter-rxjava/2.0.0-beta2/3a233746381a03dbb0f5f3ed10b11c3e72dba499/adapter-rxjava-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a233746381a03dbb0f5f3ed10b11c3e72dba499">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/adapter-rxjava-2.0.0-beta2_0a812b69089006432173fc9b7223be538a6ff870.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/2.0.0-beta2/880d9e0997b2d1bfc98e0d121ced33ee5d04aac4/retrofit-2.0.0-beta2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="880d9e0997b2d1bfc98e0d121ced33ee5d04aac4">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/retrofit-2.0.0-beta2_30bd1ab41cf58b10f783b2c5c94b317f92abe66a.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.1.1_1043b1c46ac370699bd974cdf262eb161c5738d9.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a978650837318cf056bf3383ff02fe7a3b891f20">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/com.android.support-palette-v7-23.1.1_c6e00336106e99dfdff1040d859676610f6c7655.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.0-beta-3595/5f3e80245f4d8a42370eb53a5fd65721d02236cd/kotlin-runtime-1.0.0-beta-3595.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f3e80245f4d8a42370eb53a5fd65721d02236cd">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/kotlin-runtime-1.0.0-beta-3595_57e984958f0d8d7cb38ad39d63b359a966ebba5c.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/de.hdodenhof/circleimageview/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/de.hdodenhof-circleimageview-1.3.0_82c994209e22b3345bc19943ec35970b87fd69c2.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/internal_impl-23.1.1_5c6a845d4f76b893a737bff4f87fa0c694e8b037.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5e412e954a24c5310a459c09870e4e2081aceb03">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/com.android.support-cardview-v7-23.1.1_614ffa045b56f9231773d4ed1f3b1ee964c4e500.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.1.1_cd7da427bcfd8e5d7cf84ef257550a2637a9f08c.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.6.0/a7537446a030da8eb0da4c71424d16c2589f6c4a/glide-3.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a7537446a030da8eb0da4c71424d16c2589f6c4a">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/glide-3.6.0_ec6f9590ca9897227b700d043bbe7025d2786089.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/okio-1.6.0_cb73ca1c2910de244e34678d8ed4eb47586d5f3d.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/support-annotations-23.1.1_d2ac9176cfd1e1825f1588ce51ae4e217f1623f0.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/AndroidStudioProjects/Adjemin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.6.0/212387a39088ecd3daff8e3bfc3bdc4123e33c67/okhttp-2.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="212387a39088ecd3daff8e3bfc3bdc4123e33c67">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/okhttp-2.6.0_5140dbf3cd86c08fa6304fc00d24fb09653271bb.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/io.reactivex-rxandroid-1.0.1_346ec4b71a5988ce2cd70d30a0952be43f4f8b9c.jar" />
+    </item>
+    <item
+        jar="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/macbookpro/DevFestAbidjan15/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.1.1_cc3972c9a684516795205db5b5b537e45bd1c199.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,899 @@
+{
+  "date": "2015-12-19",
+  "dateReadable": "19 Décembre",
+  "schedule": [{
+      "startTime": "08:30",
+      "endTime": "09:30",
+      "session":
+        1001
+
+    }, {
+      "startTime": "09:30",
+      "endTime": "09:45",
+      "session": 1005
+
+    }, {
+      "startTime": "09:45",
+      "endTime": "10:15",
+      "session": 125
+
+    },{
+      "startTime": "10:15",
+      "endTime": "10:45",
+      "session": 133
+    },{
+      "startTime": "10:45",
+      "endTime": "11:05",
+      "session": 109
+
+    }, {
+      "startTime": "11:05",
+      "endTime": "11:25",
+      "session": 112
+
+    }, {
+      "startTime": "11:25",
+      "endTime": "11:45",
+      "session":
+        102
+
+    }, {
+      "startTime": "11:45",
+      "endTime": "12:05",
+      "session":116
+
+    }, {
+      "startTime": "12:05",
+      "endTime": "12:25",
+      "session": 118
+    }, {
+      "startTime": "12:25",
+      "endTime": "12:45",
+      "session": 115
+    }, {
+      "startTime": "12:45",
+      "endTime": "13:15",
+      "session": 117
+    }, {
+      "startTime": "13:15",
+      "endTime": "14:15",
+      "session": 1002
+    }, {
+      "startTime": "14:15",
+      "endTime": "15:30",
+      "session": 113
+
+    }
+  , {
+      "startTime": "14:15",
+      "endTime": "15:30",
+      "session": 124
+    }
+  , {
+      "startTime": "14:15",
+      "endTime": "15:30",
+      "session": 135
+    }
+  ,{
+      "startTime": "15:45",
+      "endTime": "18:00",
+      "session": 101
+    },{
+      "startTime": "15:45",
+      "endTime": "18:00",
+      "session": 106
+    }, {
+      "startTime": "18:15",
+      "endTime": "18:30",
+      "session": 1003
+    }, {
+      "startTime": "19:00",
+      "endTime": "02:00",
+      "session":1006
+    }]
+,
+  "rooms": [
+    {
+      "id": "3a048036-ebf4-e411-b87f-00155d5066d7",
+      "name": "Grande salle"
+    },
+    {
+      "id": "9cf51a8f-ace3-e411-b87f-00155d5066d7",
+      "name": "Salle 1, workshop"
+    },
+    {
+      "id": "9cf51a8f-ace3-e411-b87f-00155d5066d7",
+      "name": "Salle 2, workshop"
+
+    }
+
+  ],
+  "sessions":[
+    {
+      "id": 1001,
+      "title": "Accueil et installation des participants",
+      "description": "Inscription et récupération de badges"
+    },
+    {
+      "id": 1002,
+      "title": "Photo de famille + Pause déjeuner",
+      "description": "Moment restaurationnnnnnnnnnnn!"
+    },
+    {
+      "id": 1003,
+      "title": "Mot de fin + Cocktail",
+      "description": "Yes!!! we did it!!!!!!!"
+    },
+    {
+      "id": 1004,
+      "title": "Morning coffee",
+      "description": "Coffeeeeeee!"
+    },
+    {
+      "id": 1005,
+      "title": "Lancement du GDG DevFest Abidjan 2015",
+      "description": "Début officiel de la conférence. Mots de bienvenue des organisateurs, sponsors et partenaires.",
+      "language": "fr",
+      "complexity": "",
+      "presentation": "",
+      "video": ""
+    },
+    {
+      "id": 1006,
+      "title": "Afterwork & Résautage",
+      "description": "",
+      "track": {
+        "title": "Quelque part..."
+      }
+    },
+    {
+      "id": 101,
+      "title": "Microcontroleurs : Application à la robotique",
+      "description": "Programmer un microcontrolleur pour allumer une LED ,Programmer un robot mobile avec un MICROCONTROLLEUR , Programmer un robot qui évite des obstacles et un robot danseur .",
+      "speakers": [
+        {
+          "id": 1,
+          "featured": false,
+          "name": "Konan Raphael N'GUESSAN",
+          "title": "Mobile Coder",
+          "company": "",
+          "country": "Côte d'Ivoire",
+          "photoUrl": "http://devfestabj.github.io/images/people/raph_konan.jpeg",
+          "bio": "",
+          "tags": ["IoT", "Mobile","robotique"],
+          "badges": {
+            "name": "GDG",
+            "description": "Google Developers Group INPHB"
+          },
+          "socials": [{
+            "name": "Twitter",
+            "icon": "app-icons:twitter",
+            "link": "https://twitter.com/raphaelkonan40"
+          }]
+        },{
+          "id": 2,
+          "featured": false,
+          "name": "Soungalo Cyrille KAWELE",
+          "title": "",
+          "company": "",
+          "country": "Côte d'Ivoire",
+          "photoUrl": "http://devfestabj.github.io/images/people/kwale.jpeg",
+          "bio": "",
+          "tags": ["IoT", "Mobile","robotique"],
+          "badges": {
+            "name": "GDG",
+            "description": "Google Developers Group INPHB"
+          },
+          "socials": [ {
+            "name": "Twitter",
+            "icon": "app-icons:twitter",
+            "link": "https://twitter.com/escakase"
+          }]
+        }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "video": "",
+      "tags": [
+        "IoT",
+        "Mobile", "robotique","domotique"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Microcontroleurs : Application à la robotique",
+      "description": "Venez apprendre à Programmer un microcontrolleur pour allumer une LED ,Programmer un robot mobile avec un MICROCONTROLLEUR , Programmer un robot qui évite des obstacles et un robot danseur .",
+      "speakers": [{
+        "id": 1,
+        "featured": false,
+        "name": "Konan Raphael N'GUESSAN",
+        "title": "Mobile Coder",
+        "company": "",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/raph_konan.jpeg",
+        "bio": "",
+        "tags": ["IoT", "Mobile","robotique"],
+        "badges": {
+          "name": "GDG",
+          "description": "Google Developers Group INPHB"
+        },
+        "socials": [{
+          "name": "Twitter",
+          "icon": "app-icons:twitter",
+          "link": "https://twitter.com/raphaelkonan40"
+        }]
+      },{
+        "id": 2,
+        "featured": false,
+        "name": "Soungalo Cyrille KAWELE",
+        "title": "",
+        "company": "",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/kwale.jpeg",
+        "bio": "",
+        "tags": ["IoT", "Mobile","robotique"],
+        "badges": {
+          "name": "GDG",
+          "description": "Google Developers Group INPHB"
+        },
+        "socials": [ {
+          "name": "Twitter",
+          "icon": "app-icons:twitter",
+          "link": "https://twitter.com/escakase"
+        }]
+      }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "IoT",
+        "Mobile",
+        "robotique"
+      ]
+    },
+
+    {
+      "id": 106,
+      "title": "Functional Programming on Android with Kotlin",
+      "description": "Presentation de la programmation fonctionnel et du langage kotlin. Avec les participants nous developperons une application Android avec Kotlin",
+      "speakers": [ {
+        "id": 28,
+        "name": "Ange Bagui",
+        "title": "Senior Android Developer",
+        "company": "",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/ange_bagui.jpg",
+        "bio": "",
+        "badges": {
+          "name": "GDG",
+          "description": "Google Developers Group MIAGE GI"
+        },
+        "tags": ["Android", "RxJava", "Equilibre"]
+      }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "Kotlin",
+        "android","mobile","programmation fonctionelle"
+      ]
+    },
+    {
+      "id": 109,
+      "title": "L'environnement connecté",
+      "description": "Présentation d'objets connectés qui interagissent avec le mobile grâce à la technologie BLE",
+      "speakers": [{
+        "id": 9,
+        "featured": true,
+        "name": "Marie-Colombe TRA LOU",
+        "title": "Développeur d'applications",
+        "company": "Women Techmakers",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/marie_colombe.jpg",
+        "bio": "",
+        "badges": {
+          "name": "Women Techmakers",
+          "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
+        },
+        "tags": ["mobile", "IoT"]
+      }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "video": "",
+      "tags": [
+        "Cloud",
+        "Mobile",
+        "IoT"
+      ]
+    },
+    {
+      "id": 112,
+      "title": "Du brainstorming à l'innovation...",
+      "description": "Présentation d'une technique pour trouver des idées et innover!",
+      "speakers": [{
+        "id": 11,
+        "featured": false,
+        "name": "Montrésor Kouassi",
+        "title": "Co-fondateur de StarTIC",
+        "company": "Ovillage",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/mon_treso.jpg",
+        "bio": "Co-fondateur de StarTIC | Ingénierie des Systèmes d'Information et Conduite de Projets Informatiques | Passionnés des TIC | Logiciels libres | Ubuntu | Jerry",
+        "badges":{},
+        "tags": ["Entrepreneuriat"],
+        "socials": [{
+          "name": "Twitter",
+          "icon": "app-icons:twitter",
+          "link": "https://twitter.com/montresorkonan"
+        }]
+      }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "Entrepreneuriat",
+        "innovation"
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Build extraordinary Apps with Firebase",
+      "description": "Créer des applications Web et mobiles qui stockent et synchronisent les données en temps réel avec Firebase.Ceci en mode connecté et déconnecté avec une reprise automatique de la synchronisation.",
+      "speakers": [{
+        "id": 23,
+        "featured": true,
+        "name": "Séti Afanou",
+        "title": "Android Developer certifié par Google",
+        "company": "Digital Inspiration",
+        "country": "Togo",
+        "photoUrl": "http://devfestabj.github.io/images/people/seti_afanou.jpg",
+        "bio": "",
+        "badges":{},
+        "tags": ["android","firebase"],
+        "socials": [{
+          "name": "Google+",
+          "icon": "app-icons:gplus",
+          "link": "https://plus.google.com/+DawidOstrowski/"
+        }]
+      }],
+      "language": "FR",
+      "complexity": "Intermediate",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "Android",
+        "Firebase"
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Let's play JHipster!",
+      "description": "Live coding sur les possibilités du framework jhipster!!!",
+      "speakers": [{
+        "id": 14,
+        "name": "Komi Serge Innocent",
+        "featured": true,
+        "title": "Développeur java",
+        "company": "",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/komi_serge.jpg",
+        "bio": "",
+        "tags": ["Web", "Dart"],
+        "badges": {
+          "name": "GDG",
+          "description": "Google Developers Group MIAGE GI"
+        }
+      }],
+      "language": "FR",
+      "complexity": "Intermediate",
+      "video": "",
+      "tags": [
+        "Web",
+        "spring-boot",
+        "angularJS"
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Présentation de polymer",
+      "description": "présentation du framework de développement universel polymer",
+      "speakers": [{
+        "id": 15,
+        "featured": true,
+        "name": "Éric Zilé Kouassi",
+        "title": "Ingénieur études et développement",
+        "company": "Sydeem girafe",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/eric_zile.jpg",
+        "bio": " ",
+        "tags": ["Web", "Polymer"],
+        "badges": {
+          "name": "GDG",
+          "description": "Google Developers Group MIAGE GI"
+        }
+      }],
+      "language": "FR",
+      "complexity": "Intermediate",
+      "video": "",
+      "tags": [
+        "Web",
+        "Polymer"
+      ]
+    },
+    {
+      "id": 117,
+      "title": "Digital Marketing 101 : Adwords/Adsense",
+      "description": "Session 'awareness' à titre informatif sur les possibilités de Adwords pour les professionnels qui souhaitent se lancer dans le digital marketing, aussi tous ceux qui veulent ajouter une nouvelle palette de compétences; et sur les possibilités de Adsense pour les créateurs de contenu YouTube, Blogger ou autre site web. ",
+      "speakers": [{
+        "id": 18,
+        "name": "Dioulo Etser Emmanuel KANGO",
+        "title": "Google Student Ambassador",
+        "company": "",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/kano.jpeg",
+        "bio": "",
+        "badges":{},
+        "tags": ["adsense", "marketing","adwords"],
+        "socials": [{
+          "name": "Twitter",
+          "icon": "app-icons:twitter",
+          "link": "https://twitter.com/thewinnaking"
+        }]
+      }],
+      "language": "FR",
+      "complexity": "Intermediate",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "Adwords",
+        "Adsense"
+      ]
+    },
+    {
+      "id": 118,
+      "title": "Entrepreneuriat et Développeurs Android Africain",
+      "description": "Entrepreneuriat et Développeurs Android Africain est un thème qui m'a été inspiré en observant l'écosystème des développeurs Android africain en général et Ivoirien en particulier. Mon constat est que nous avons des compétences,mais nous sommes mal canalisés. Dans ce thème, je parlerai d'entreprenariat, couplet caractéristiques développeurs puis une léçon à suivre.",
+      "speakers": [{
+        "id": 17,
+        "name": "Welly Arnold KOUYA",
+        "title": "Développeur Backend PHP & Mobile ",
+        "company": "",
+        "country": "côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/arnold_kouya.png",
+        "bio": "Développeur Backend PHP & Mobile Entrepreneur Web Formateur en TIC Manager Wordpress Cote d'Ivoire",
+        "badges":{},
+        "tags": ["entrepreneuriat","mobile"],
+        "socials": [{
+          "name": "Google+",
+          "icon": "app-icons:gplus",
+          "link": "https://plus.google.com/+AnnaKurilo/"
+        }, {
+          "name": "LinkedIn",
+          "icon": "app-icons:linkedin",
+          "link": "https://ua.linkedin.com/in/bluebirrrrd"
+        }, {
+          "name": "Twitter",
+          "icon": "app-icons:twitter",
+          "link": "https://twitter.com/bluebirrrrd"
+        }, {
+          "name": "Facebook",
+          "icon": "app-icons:facebook",
+          "link": "https://www.facebook.com/annakurylo21"
+        }]
+      }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "entrepreneuriat"
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Applications mobiles avec AngularJs et Ionic",
+      "description": "Dans cette session vous saurez comment developper une application mobile avec les technologie web utilisant le javascript. Nous verrons aussi comment a partir de ces technologie on peut avoir une meme experience utilisateur qu'avec les applications developpez de manière native",
+      "speakers": [{
+        "id": 19,
+        "featured": false,
+        "name": "Moussa Doumbia",
+        "title": "",
+        "company": "",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/doumbia.jpg",
+        "bio": "",
+        "tags": ["web", "mobile"],
+        "badges": {
+          "name": "GDG",
+          "description": "Google Developers Group Bassam",
+          "link": "https://developers.google.com/groups/chapter/105591078626334574818/"
+        }
+      }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "video": "",
+      "tags": [
+        "Web",
+        "AngularJS","ionic"
+      ]
+    },
+    {
+      "id": 125,
+      "title": "[Keynote] Quoi de neuf chez Google?",
+      "description": "Découvrez les nouveautés de Google avec nos trois speakers présents au dernier I/O",
+      "speakers": [{
+        "id": 23,
+        "featured": true,
+        "name": "Séti Afanou",
+        "title": "Android Developer certifié par Google",
+        "company": "Digital Inspiration",
+        "country": "Togo",
+        "photoUrl": "http://devfestabj.github.io/images/people/seti_afanou.jpg",
+        "bio": "",
+        "badges":{},
+        "tags": ["android","firebase"],
+        "socials": [{
+          "name": "Google+",
+          "icon": "app-icons:gplus",
+          "link": "https://plus.google.com/+DawidOstrowski/"
+        }]
+      },{
+        "id": 15,
+        "featured": true,
+        "name": "Éric Zilé Kouassi",
+        "title": "Ingénieur études et développement",
+        "company": "Sydeem girafe",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/eric_zile.jpg",
+        "bio": " ",
+        "tags": ["Web", "Polymer"],
+        "badges": {
+          "name": "GDG",
+          "description": "Google Developers Group MIAGE GI"
+        }
+      },{
+        "id": 29,
+        "featured": true,
+        "name": "Audrey Ehouman",
+        "title": "",
+        "company": "Women Techmakers,JCertif international,Akendewa",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/audrey_ehoum.jpg",
+        "bio": "",
+        "badges": {
+          "name": "Women Techmakers",
+          "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
+        },
+        "tags": ["virtual reality", "Android", "CardBoard"]
+      }],
+      "language": "fr",
+      "complexity": "Beginner",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "Keynote"
+      ]
+    },
+    {
+      "id": 133,
+      "title": "RxJava for Android",
+      "description": "Presentation de la librairie Equilibre , RxJava et Retrolambda pour developper des applications Android Reactive pendant un livecode",
+      "speakers": [ {
+        "id": 28,
+        "name": "Ange Bagui",
+        "title": "Senior Android Developer",
+        "company": "",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/ange_bagui.jpg",
+        "bio": "",
+        "badges": {
+          "name": "GDG",
+          "description": "Google Developers Group MIAGE GI"
+        },
+        "tags": ["Android", "RxJava", "Equilibre"]
+      }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "Android",
+        "RxJava"
+      ]
+    },
+    {
+      "id": 134,
+      "title": "Virtual reality with your cardboard",
+      "description": "Montrer la réalité virtuelle sous un autre angle et faire ressortir son accessibilité à tous.",
+      "speakers": [{
+        "id": 29,
+        "featured": true,
+        "name": "Audrey Ehouman",
+        "title": "",
+        "company": "Women Techmakers,JCertif international,Akendewa",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/audrey_ehoum.jpg",
+        "bio": "",
+        "badges": {
+          "name": "Women Techmakers",
+          "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
+        },
+        "tags": ["virtual reality", "Android", "CardBoard"]
+      }],
+      "language": "FR",
+      "complexity": "Beginner",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "Android",
+        "Marshmallow","Cardboard"
+      ]
+    },
+    {
+      "id": 135,
+      "title": "Functional Programming in Scala.",
+      "description": "",
+      "speakers": [{
+        "id": 30,
+        "featured": true,
+        "name": "Philippe Kouao",
+        "title": "Computer Scientist",
+        "company": "Py Tehnologies",
+        "country": "Côte d'Ivoire",
+        "photoUrl": "http://devfestabj.github.io/images/people/kouao.jpg",
+        "bio": "",
+        "badges": {
+          "name": "Expert java",
+          "description": ""
+        },
+        "tags": ["java", "scala", "functional programming"]
+      }],
+      "language": "FR",
+      "complexity": "Intermediate",
+      "presentation": "",
+      "video": "",
+      "tags": [
+        "scala",
+        "functional programing"
+      ]
+    }
+  ],
+  "speakers": [{
+    "id": 23,
+    "featured": true,
+    "name": "Séti Afanou",
+    "title": "Android Developer certifié par Google",
+    "company": "Digital Inspiration",
+    "country": "Togo",
+    "photoUrl": "http://devfestabj.github.io/images/people/seti_afanou.jpg",
+    "bio": "",
+    "badges":{},
+    "tags": ["android","firebase"],
+    "socials": [{
+      "name": "Google+",
+      "icon": "app-icons:gplus",
+      "link": "https://plus.google.com/+DawidOstrowski/"
+    }]
+  }, {
+    "id": 9,
+    "featured": true,
+    "name": "Marie-Colombe TRA LOU",
+    "title": "Développeur d'applications",
+    "company": "Women Techmakers",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/marie_colombe.jpg",
+    "bio": "",
+    "badges": {
+      "name": "Women Techmakers",
+      "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
+    },
+    "tags": ["mobile", "IoT"]
+  }, {
+    "id": 15,
+    "featured": true,
+    "name": "Éric Zilé Kouassi",
+    "title": "Ingénieur études et développement",
+    "company": "Sydeem girafe",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/eric_zile.jpg",
+    "bio": " ",
+    "tags": ["Web", "Polymer"],
+    "badges": {
+      "name": "GDG",
+      "description": "Google Developers Group MIAGE GI"
+    }
+  }, {
+    "id": 14,
+    "name": "Komi Serge Innocent",
+    "featured": true,
+    "title": "Développeur java",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/komi_serge.jpg",
+    "bio": "",
+    "tags": ["Web", "Dart"],
+    "badges": {
+      "name": "GDG",
+      "description": "Google Developers Group MIAGE GI"
+    }
+  }, {
+    "id": 11,
+    "featured": false,
+    "name": "Montrésor Kouassi",
+    "title": "Co-fondateur de StarTIC",
+    "company": "Ovillage",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/mon_treso.jpg",
+    "bio": "Co-fondateur de StarTIC | Ingénierie des Systèmes d'Information et Conduite de Projets Informatiques | Passionnés des TIC | Logiciels libres | Ubuntu | Jerry",
+    "badges":{},
+    "tags": ["Entrepreneuriat"],
+    "socials": [{
+      "name": "Twitter",
+      "icon": "app-icons:twitter",
+      "link": "https://twitter.com/montresorkonan"
+    }]
+  }, {
+    "id": 1,
+    "featured": false,
+    "name": "Konan Raphael N'GUESSAN",
+    "title": "Mobile Coder",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/raph_konan.jpeg",
+    "bio": "",
+    "tags": ["IoT", "Mobile","robotique"],
+    "badges": {
+      "name": "GDG",
+      "description": "Google Developers Group INPHB"
+    },
+    "socials": [{
+      "name": "Twitter",
+      "icon": "app-icons:twitter",
+      "link": "https://twitter.com/raphaelkonan40"
+    }]
+  }, {
+    "id": 2,
+    "featured": false,
+    "name": "Soungalo Cyrille KAWELE",
+    "title": "",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/kwale.jpeg",
+    "bio": "",
+    "tags": ["IoT", "Mobile","robotique"],
+    "badges": {
+      "name": "GDG",
+      "description": "Google Developers Group INPHB"
+    },
+    "socials": [ {
+      "name": "Twitter",
+      "icon": "app-icons:twitter",
+      "link": "https://twitter.com/escakase"
+    }]
+  }, {
+    "id": 19,
+    "featured": false,
+    "name": "Moussa Doumbia",
+    "title": "",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/doumbia.jpg",
+    "bio": "",
+    "tags": ["web", "mobile"],
+    "badges": {
+      "name": "GDG",
+      "description": "Google Developers Group Bassam",
+      "link": "https://developers.google.com/groups/chapter/105591078626334574818/"
+    }
+  }, {
+    "id": 17,
+    "name": "Welly Arnold KOUYA",
+    "title": "Développeur Backend PHP & Mobile ",
+    "company": "",
+    "country": "côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/arnold_kouya.png",
+    "bio": "Développeur Backend PHP & Mobile Entrepreneur Web Formateur en TIC Manager Wordpress Cote d'Ivoire",
+    "badges":{},
+    "tags": ["entrepreneuriat","mobile"],
+    "socials": [{
+      "name": "Google+",
+      "icon": "app-icons:gplus",
+      "link": "https://plus.google.com/+AnnaKurilo/"
+    }, {
+      "name": "Twitter",
+      "icon": "app-icons:twitter",
+      "link": "https://twitter.com/bluebirrrrd"
+    }]
+  }, {
+    "id": 18,
+    "name": "Dioulo Etser Emmanuel KANGO",
+    "title": "Google Student Ambassador",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/kano.jpeg",
+    "bio": "",
+    "badges":{},
+    "tags": ["adsense", "marketing","adwords"],
+    "socials": [{
+      "name": "Twitter",
+      "icon": "app-icons:twitter",
+      "link": "https://twitter.com/thewinnaking"
+    }]
+  }, {
+    "id": 28,
+    "name": "Ange Bagui",
+    "title": "Senior Android Developer",
+    "company": "",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/ange_bagui.jpg",
+    "bio": "",
+    "badges": {
+      "name": "GDG",
+      "description": "Google Developers Group MIAGE GI"
+    },
+    "tags": ["Android", "RxJava", "Equilibre"]
+  }, {
+    "id": 29,
+    "featured": true,
+    "name": "Audrey Ehouman",
+    "title": "",
+    "company": "Women Techmakers,JCertif international,Akendewa",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/audrey_ehoum.jpg",
+    "bio": "",
+    "badges": {
+      "name": "Women Techmakers",
+      "description": "Women Techmakers powered by Google Developers Group MIAGE GI"
+    },
+    "tags": ["virtual reality", "Android", "CardBoard"]
+  }, {
+    "id": 30,
+    "featured": true,
+    "name": "Philippe Kouao",
+    "title": "Computer Scientist",
+    "company": "Py Tehnologies",
+    "country": "Côte d'Ivoire",
+    "photoUrl": "http://devfestabj.github.io/images/people/kouao.jpg",
+    "bio": "",
+    "badges": {
+      "name": "Expert java",
+      "description": ""
+    },
+    "tags": ["java", "scala", "functional programming"]
+  }],
+  "partners":[{
+    "title": "Sponsor principal",
+    "logos": [{
+      "name": "Google",
+      "url": "https://www.google.com.ua/intl/en/about/",
+      "logoUrl": "../images/partners/google.svg"
+    }]
+  }, {
+    "title": "Communautés GDG organisatrices",
+    "logos": [{
+      "name": "GDG Abidjan",
+      "logoUrl": "../images/partners/gdg_abj.png"
+    },{
+      "name": "GDG Agitel",
+      "logoUrl": "../images/partners/gdg_agitel.png"
+    },{
+      "name": "GDG MIAGE GI",
+      "logoUrl": "../images/partners/gdg_miage.jpg"
+    }]
+  }, {
+    "title": "Partenaires communication",
+    "logos": [{
+      "name": "Ovillage",
+      "url": "http://ovillage.ci/",
+      "logoUrl": "../images/partners/ovillage.png"
+    },{
+      "name": "Ovillage",
+      "url": "http://akendewa.org/",
+      "logoUrl": "../images/partners/akendewa.jpeg"
+    }]
+  }]
+
+
+}
