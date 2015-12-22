@@ -9,7 +9,7 @@ Each year our Gdg community in Ivory Coast have the google event called DevFest.
 What is Kotlin?
 ==============
 [![Kotlin](https://upload.wikimedia.org/wikipedia/commons/b/b5/Kotlin-logo.png)
-otlin](http://kotlinlang.org)is a language that runs on the JVM. It’s being created by Jetbrains, the company behind powerful tools such as IntelliJ, one of the most famous IDEs for Java developers.
+otlin](http://kotlinlang.org) is a language that runs on the JVM. It’s being created by Jetbrains, the company behind powerful tools such as IntelliJ, one of the most famous IDEs for Java developers.
 
 Why Kotlin is great for Android?
 ===============================
